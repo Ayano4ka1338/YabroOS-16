@@ -1,7 +1,8 @@
 # YabroOS-16
-free x16 OS YabroOS
+Free x16 OS YabroOS.
+
 use 
-    
+
     mcopy -i yourprogram.bin/.com/.exe Disk/floppy.img :: 
 to copy files to a disk
 
@@ -10,7 +11,7 @@ to copy files to a disk
 <img width="434" height="403" alt="image" src="https://github.com/user-attachments/assets/dbcc2d6e-97b0-44ef-a5e6-26630f49e599" />
 <img width="641" height="399" alt="image" src="https://github.com/user-attachments/assets/2ea2992f-4453-40f0-99f9-c467149d9e9a" />
 <img width="721" height="310" alt="image" src="https://github.com/user-attachments/assets/ec0c65c2-5a75-4103-9241-1195eff81a62" />
-
+U can say "I use YabroOS btw"
 
 Installing packages for build:
 Ubuntu/Debian
@@ -35,3 +36,4 @@ Make build script executable:
 build the project:
     
     ./build.sh
+
